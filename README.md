@@ -1,6 +1,7 @@
 # WebScrapper
 ### Simple web-scrapper (JAVA)
-
+Created: 06 November 2014
+<br><br>
 Launch this program from console and add arguments like this:
 
 Usage example: <code>java -jar HireRightScraper.jar [URL_OR_URLS] [KEY_WORDS] –v –w –c –e</code>
@@ -14,4 +15,4 @@ Where: <ul> <li> <b><i>URL_OR_URLS</b></i> - URL for scraping OR path to list of
 </ul>
 
 Data processing results are printed to output for each web resources separately and for all resources as total.
-No 3d-party libraries
+<br>No 3d-party libraries
